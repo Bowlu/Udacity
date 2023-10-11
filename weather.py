@@ -1,7 +1,7 @@
 # import requests
 
 # city = input("What city are you in?")
-# weather = requests.get('https://api.openweathermap.org/data/2.5/weather?q={city}&appid=bcda79ff3b80aa797a4d47125e023cee')
+# weather = requests.get('https://api.openweathermap.org/data/2.5/weather?q={city}&appid={id})
 # print(weather)
 
 # compiled = weather.json()
